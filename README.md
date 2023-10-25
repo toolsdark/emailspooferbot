@@ -17,13 +17,18 @@ Welcome to EmailSender Bot, a powerful and versatile tool for sending emails eff
 ## [+] Follow Me :
 
 <div style="text-align: center;">
-  <a href="https://t.me/toolsdark_bot">
-    <img src="https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot">
-  </a>
-  <span style="margin: 0 10px;">or</span>
-  <a href="https://t.me/toolsdark">
-    <img src="https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Owner">
-  </a>
+  <div>
+    <a href="https://t.me/toolsdark_bot">
+      <img src="https://img.shields.io/badge/Chat-with Bot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot">
+    </a>
+    <span style="margin: 0 20px;">Chat with Bot</span>
+  </div>
+  <div>
+    <a href="https://t.me/toolsdark">
+      <img src="https://img.shields.io/badge/Chat-with Owner-blue?style=for-the-badge&logo=telegram" alt="Telegram Owner">
+    </a>
+    <span style="margin: 0 20px;">Chat with Owner</span>
+  </div>
 </div>
 
 

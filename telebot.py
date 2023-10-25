@@ -7,7 +7,7 @@ from email.mime.multipart import MIMEMultipart
 from telebot import types
 
 
-# This is not a complete code for sending email with telegram bot  contact @toolsdark for more purchasing our service !!
+# This is not a complete code for sending email with telegram bot  contact @toolsdark for purchasing our service !!
 
 
 # Please note it is just a format as i couldnot reveal source code, lookup our bot for test mails:- @tooldark_bot

@@ -1,62 +1,56 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>EmailSender Bot</title>
-</head>
-<body>
-    <h1>EmailSender Bot</h1>
+# EmailSender Bot
 
-    <a href="LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
-    </a>
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-    <p>Welcome to EmailSender Bot, a powerful and versatile tool for sending emails effortlessly. Whether you need to send newsletters, notifications, or personalized messages, our bot has you covered.</p>
+Welcome to EmailSender Bot, a powerful and versatile tool for sending emails effortlessly. Whether you need to send newsletters, notifications, or personalized messages, our bot has you covered.
 
-    <h2>Features</h2>
-    <ul>
-        <li><strong>Simplicity:</strong> Send emails with just a few lines of code or through an easy-to-use web interface.</li>
-        <li><strong>Customization:</strong> Personalize your emails with dynamic content and variables.</li>
-        <li><strong>Templates:</strong> Create and reuse email templates for consistent messaging.</li>
-        <li><strong>Attachments:</strong> Send files and attachments with your emails.</li>
-        <li><strong>Scheduled Sending:</strong> Schedule emails to be sent at specific times.</li>
-        <li><strong>Logging:</strong> Keep track of all sent emails for reference and auditing.</li>
-        <li><strong>Multiple Providers:</strong> Supports various email providers, including SMTP, SendGrid, and more.</li>
-    </ul>
+## Features
 
-    <h2>Getting Started</h2>
-    <ol>
-        <li>
-            <strong>Installation:</strong>
-            <pre><code>npm install emailsender-bot</code></pre>
-        </li>
-        <li>
-            <strong>Usage:</strong>
-            <pre><code>const EmailSender = require('emailsender-bot');
+- **Simplicity:** Send emails with just a few lines of code or through an easy-to-use web interface.
+- **Customization:** Personalize your emails with dynamic content and variables.
+- **Templates:** Create and reuse email templates for consistent messaging.
+- **Attachments:** Send files and attachments with your emails.
+- **Scheduled Sending:** Schedule emails to be sent at specific times.
+- **Logging:** Keep track of all sent emails for reference and auditing.
+- **Multiple Providers:** Supports various email providers, including SMTP, SendGrid, and more.
 
-const sender = new EmailSender({
-  provider: 'smtp', 
-  apiKey: 'YOUR_API_KEY',
-});
+## Getting Started
 
-sender.sendEmail({
-  to: 'recipient@example.com',
-  subject: 'Hello, World!',
-  text: 'This is a test email sent from EmailSender Bot.',
-});</code></pre>
-        </li>
-    </ol>
+1. **Installation:**
 
-    <h2>Documentation</h2>
-    <p>Explore our documentation for in-depth information on usage, options, and best practices.</p>
+    ```bash
+    npm install emailsender-bot
+    ```
 
-    <h2>Support</h2>
-    <p>If you have any questions, encounter issues, or need assistance, please feel free to <a href="https://github.com/emailsender-bot/issues">open an issue</a>.</p>
+2. **Usage:**
 
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+    ```javascript
+    const EmailSender = require('emailsender-bot');
 
-    <h2>Get Started</h2>
-    <p>Get started with EmailSender Bot today and supercharge your email communications. Visit our <a href="https://t.me/tooldark_bot">Telegram</a> for more information and pricing details.</p>
-</body>
-</html>
+    const sender = new EmailSender({
+      provider: 'smtp', 
+      apiKey: 'YOUR_API_KEY',
+    });
+
+    sender.sendEmail({
+      to: 'recipient@example.com',
+      subject: 'Hello, World!',
+      text: 'This is a test email sent from EmailSender Bot.',
+    });
+    ```
+
+3. **Documentation:**
+
+   Explore our sending quality for in-depth information on usage, options, and best practices.
+
+## Support
+
+If you have any questions, encounter issues, or need assistance, please feel free to [open an issue](https://github.com/emailsender-bot/issues).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Get Started
+
+Get started with EmailSender Bot today and supercharge your email communications. Visit our [Telegram](https://t.me/tooldark_bot for more information and pricing details.

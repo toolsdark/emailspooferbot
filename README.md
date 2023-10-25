@@ -18,18 +18,19 @@ Welcome to EmailSender Bot, a powerful and versatile tool for sending emails eff
 
 <div style="text-align: center;">
   <div>
-    <a href="https://t.me/toolsdark_bot">
-      <img src="https://img.shields.io/badge/Chat-with Bot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot">
+    <a href="https://t.me/tooldark_bot">
+      <img src="https://img.shields.io/badge/Chat with Bot-🤖-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot">
     </a>
-    <span style="margin: 0 20px;">Chat with Bot</span>
+    <p style="font-weight: bold; font-size: 16px; margin: 5px 0;">Chat with Bot</p>
   </div>
   <div>
     <a href="https://t.me/toolsdark">
-      <img src="https://img.shields.io/badge/Chat-with Owner-blue?style=for-the-badge&logo=telegram" alt="Telegram Owner">
+      <img src="https://img.shields.io/badge/Chat with Owner-👤-blue?style=for-the-badge&logo=telegram" alt="Telegram Owner">
     </a>
-    <span style="margin: 0 20px;">Chat with Owner</span>
+    <p style="font-weight: bold; font-size: 16px; margin: 5px 0;">Chat with Owner</p>
   </div>
 </div>
+
 
 
 

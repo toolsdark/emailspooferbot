@@ -12,7 +12,7 @@ Welcome to EmailSender Bot, a powerful and versatile tool for sending emails eff
 - **Attachments:** Send files and attachments with your emails.
 - **Scheduled Sending:** Schedule emails to be sent at specific times.
 - **Logging:** Keep track of all sent emails for reference and auditing.
-- **Multiple Providers:** Supports various email providers, including SMTP, SendGrid, and more.
+- **Multiple Providers:** Supports various email providers, including SMTP.
 
 ## [+] Follow Me :
 

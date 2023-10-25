@@ -1,8 +1,8 @@
-# EmailSender Bot
+# EmailSpoofer Bot
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-Welcome to EmailSender Bot, a powerful and versatile tool for sending emails effortlessly. Whether you need to send newsletters, notifications, or personalized messages, our bot has you covered.
+Welcome to EmailSpoofer Bot !!
+Email spoofing is a common tactic used by cybercriminals to deceive recipients by sending emails that appear to come from a trusted source. These fraudulent emails can lead to phishing attacks, data breaches, and other security threats. Protecting yourself and your organization against email spoofing is crucial.
 
 ## Features
 

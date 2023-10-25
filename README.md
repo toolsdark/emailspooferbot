@@ -14,29 +14,28 @@ Welcome to EmailSender Bot, a powerful and versatile tool for sending emails eff
 - **Logging:** Keep track of all sent emails for reference and auditing.
 - **Multiple Providers:** Supports various email providers, including SMTP, SendGrid, and more.
 
-## Getting Started
+## Getting Started 
 
 1. **Installation:**
 
     ```bash
-    npm install emailsender-bot
+    pip install pyTelegramBotAPI
+
     ```
 
-2. **Usage:**
+2. Usage:
 
-    ```javascript
-    const EmailSender = require('emailsender-bot');
+    ```python
+    #It is just a format to use my service contact @toolsdark via telegram!
+import emailsender_bot
 
-    const sender = new EmailSender({
-      provider: 'smtp', 
-      apiKey: 'YOUR_API_KEY',
-    });
+# Create an EmailSender instance
+sender = emailsender_bot.EmailSender(provider='smtp', apiKey='API_KEY')
 
-    sender.sendEmail({
-      to: 'recipient@example.com',
-      subject: 'Hello, World!',
-      text: 'This is a test email sent from EmailSender Bot.',
-    });
+# Compose and send an email
+email = emailsender_bot.Email(to='recipient@example.com', subject='Hello, World!', text='This is a test email sent from EmailSender Bot.')
+sender.send_email(email)
+
     ```
 
 3. **Documentation:**

@@ -22,7 +22,7 @@ Welcome to EmailSender Bot, a powerful and versatile tool for sending emails eff
     pip install pyTelegramBotAPI
 
     ```
-2. Usage:
+2. Usage: (Python also supported)
 
     ```python
     const EmailSender = require('emailsender-bot');

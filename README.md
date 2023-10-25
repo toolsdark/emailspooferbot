@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Get Started
 
-Get started with EmailSender Bot today and supercharge your email communications. Visit our [Telegram](https://t.me/tooldark_bot for more information and pricing details.
+Get started with EmailSender Bot today and supercharge your email communications. Visit our Telegram [https://t.me/tooldark_bot] for more  details include test mails.

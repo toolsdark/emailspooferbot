@@ -40,6 +40,9 @@ Welcome to EmailSender Bot, a powerful and versatile tool for sending emails eff
 
     ```bash
     pip install pyTelegramBotAPI
+    or
+    pip install python-telegram-bot
+
 
     ```
 2. Usage: (Python also supported)

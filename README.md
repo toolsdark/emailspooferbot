@@ -22,14 +22,22 @@ Welcome to EmailSender Bot, a powerful and versatile tool for sending emails eff
     pip install pyTelegramBotAPI
 
     ```
-
-2. Usage:  #It is just a format to use my service contact @toolsdark via telegram!
+2. Usage:
 
     ```python
-email = emailsender_bot.Email(to='recipient@example.com', subject='Hello, World!', text='This is a test email sent from EmailSender Bot.')
-sender.send_email(email)
-    ```
+    const EmailSender = require('emailsender-bot');
 
+    const sender = new EmailSender({
+      provider: 'smtp', 
+      apiKey: 'YOUR_API_KEY',
+    });
+
+    sender.sendEmail({
+      to: 'recipient@example.com',
+      subject: 'Hello, World!',
+      text: 'This is a test email sent from EmailSender Bot.',
+    });
+    ```
 3. **Documentation:**
 
    Explore our sending quality for in-depth information on usage, options, and best practices.

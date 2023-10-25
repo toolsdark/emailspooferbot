@@ -14,6 +14,20 @@ Welcome to EmailSender Bot, a powerful and versatile tool for sending emails eff
 - **Logging:** Keep track of all sent emails for reference and auditing.
 - **Multiple Providers:** Supports various email providers, including SMTP, SendGrid, and more.
 
+## [+] Follow Me :
+
+<div style="text-align: center;">
+  <a href="https://t.me/toolsdark_bot">
+    <img src="https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot">
+  </a>
+  <span style="margin: 0 10px;">or</span>
+  <a href="https://t.me/toolsdark">
+    <img src="https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Owner">
+  </a>
+</div>
+
+
+
 ## Getting Started 
 
 1. **Installation:**
@@ -43,9 +57,6 @@ Welcome to EmailSender Bot, a powerful and versatile tool for sending emails eff
    Explore our sending quality for in-depth information on usage, options, and best practices.
 
 
-## [+] Follow Me :
-
-[![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/toolsdark)
 
 ## License
 

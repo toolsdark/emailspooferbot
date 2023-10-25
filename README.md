@@ -42,12 +42,10 @@ Welcome to EmailSender Bot, a powerful and versatile tool for sending emails eff
 
    Explore our sending quality for in-depth information on usage, options, and best practices.
 
-## FOLLOW ME
 
-[![Telegram Logo](https://logowik.com/content/uploads/images/telegram-messenger-new4234.jpg)](https://t.me/toolsdark)
+## [+] Follow Me :
 
-Click the Telegram logo above to chat with me on Telegram.
-
+[![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/toolsdark)
 
 ## License
 

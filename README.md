@@ -23,19 +23,11 @@ Welcome to EmailSender Bot, a powerful and versatile tool for sending emails eff
 
     ```
 
-2. Usage:
+2. Usage:  #It is just a format to use my service contact @toolsdark via telegram!
 
     ```python
-    #It is just a format to use my service contact @toolsdark via telegram!
-import emailsender_bot
-
-# Create an EmailSender instance
-sender = emailsender_bot.EmailSender(provider='smtp', apiKey='API_KEY')
-
-# Compose and send an email
 email = emailsender_bot.Email(to='recipient@example.com', subject='Hello, World!', text='This is a test email sent from EmailSender Bot.')
 sender.send_email(email)
-
     ```
 
 3. **Documentation:**

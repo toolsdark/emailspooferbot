@@ -79,5 +79,6 @@ Get started with EmailSender Bot today and supercharge your email communications
 
 
 An email spoofing bot typically refers to a python script, often run on a server or automated system, designed to automate the process of email spoofing. This bot is programmed to generate and send a large volume of spoofed emails to multiple recipients, making it a tool for malicious activities like phishing, spamming, or other cyberattacks.
+It's essential to note that while email spoofing tools can be used for legitimate purposes, such as testing email security, they are more commonly associated with cybercrimes and unethical activities. Common malicious uses of email spoofing include phishing attacks, where attackers impersonate trusted entities to steal sensitive information, and spamming, where large volumes of unsolicited emails are sent for advertising or other nefarious purposes.
 
 

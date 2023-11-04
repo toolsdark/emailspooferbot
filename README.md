@@ -8,8 +8,7 @@
 <br>
 <hr>
 Welcome to EmailSender Bot !!
-Email spoofing is a common tactic used by cybercriminals to deceive recipients by sending emails that appear to come from a trusted source. These fraudulent emails can lead to phishing attacks, data breaches, and other security threats. Protecting yourself and your organization against email spoofing is crucial.
-
+Email spoofing is a common tactic used by cybercriminals to deceive recipients by sending emails that appear to come from a trusted source. These fraudulent emails can lead to phishing attacks, data breaches, and other security threats. 
 ## Features
 
 - **Simplicity:** Send emails with just a few lines of code or through an easy-to-use web interface.

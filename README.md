@@ -12,8 +12,6 @@ Email spoofing is a common tactic used by cybercriminals to deceive recipients b
 - **Customization:** Personalize your emails with dynamic content and variables.
 - **Templates:** Create and reuse email templates for consistent messaging.
 - **Attachments:** Send files and attachments with your emails.
-- **Scheduled Sending:** Schedule emails to be sent at specific times.
-- **Logging:** Keep track of all sent emails for reference and auditing.
 - **Multiple Providers:** Supports various email providers, including SMTP.
 
 ## [+] Follow Me :

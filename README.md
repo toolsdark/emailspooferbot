@@ -1,6 +1,10 @@
-# EmailSender Bot
-*This bot is designed to send a large volume of emails with payload attachment*
+<p align="center">
+  <img src="https://www.sangfor.com/sites/default/files/2022-08/spoofing_attack.jpg" alt="Logo" width="150" style="border-radius: 70%;">
+</p>
 
+# EmailSender Bot
+
+*This bot is designed to send a large volume of emails with payload attachment*
 <br>
 <hr>
 Welcome to EmailSender Bot !!

@@ -1,6 +1,6 @@
 # EmailSender Bot
+*This bot is designed to send a large volume of emails with payload attachment*
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 <br>
 <hr>
 Welcome to EmailSender Bot !!
@@ -70,8 +70,13 @@ Email spoofing is a common tactic used by cybercriminals to deceive recipients b
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Get Started
 
 Get started with EmailSender Bot today and supercharge your email communications. Visit our Telegram [https://t.me/tooldark_bot] for more  details include test mails.
+
+
+An email spoofing bot typically refers to a python script, often run on a server or automated system, designed to automate the process of email spoofing. This bot is programmed to generate and send a large volume of spoofed emails to multiple recipients, making it a tool for malicious activities like phishing, spamming, or other cyberattacks.
+
+

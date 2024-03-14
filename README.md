@@ -21,7 +21,7 @@ Welcome to EmailSender Bot !!
 
 <div style="text-align: center;">
   <div>
-    <a href="https://t.me/tooldark_bot">
+    <a href="https://t.me/maildark_bot">
       <img src="https://img.shields.io/badge/Chat with Bot-🤖-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot">
     </a>
     <p style="font-weight: bold; font-size: 16px; margin: 5px 0;">Chat with Bot</p>
